@@ -2,7 +2,7 @@
 
 # Sobre mim
 
-Meu nome é Gustavo Lemos. Tenho 25 anos de idade, e sou Engenheiro de software, analista de QA e Designer. Sou bacharel em Sistemas e Mídias Digitais pela Universidade Federal do Ceará, e Alumnus do projeto Apple Developer Academy. 
+Meu nome é Gustavo Lemos. Tenho 25 anos de idade, e sou engenheiro de software, analista de QA e designer. Sou bacharel em Sistemas e Mídias Digitais pela Universidade Federal do Ceará, e Alumnus do projeto Apple Developer Academy. 
 
 Sou apaixonado por desenvolvimento em geral, e sempre gosto de trabalhar em soluções inteligentes e escaláveis para os problemas dos projetos em que participo. 
 
