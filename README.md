@@ -2,9 +2,9 @@
 
 # Sobre mim
 
-Meu nome é Gustavo Lemos. Tenho 25 anos de idade, e sou engenheiro de software, analista de QA e designer. Sou bacharel em Sistemas e Mídias Digitais pela Universidade Federal do Ceará, e Alumnus do projeto Apple Developer Academy. 
+Eu sou Nico! Tenho 26 anos de idade, e sou dev, analista de QA e designer. Sou bacharel em Sistemas e Mídias Digitais pela Universidade Federal do Ceará, e Alumnus do projeto Apple Developer Academy. 
 
-Sou apaixonado por desenvolvimento em geral, e sempre gosto de trabalhar em soluções inteligentes e escaláveis para os problemas dos projetos em que participo. 
+Gosto de desenvolvimento em geral, e sempre gosto de trabalhar em soluções inteligentes e escaláveis para os problemas dos projetos em que participo. 
 
 ## Meus links 
 <a href="https://www.linkedin.com/in/chapolemos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
